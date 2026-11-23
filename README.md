@@ -2,7 +2,7 @@
 
 A modern, fully responsive single-page website for a pool cleaning and maintenance company. Built as a client demo with a clean water-themed design, an interactive before/after slider, and a conversion-focused layout.
 
-**Live Demo:** [https://aquapurepoolcare.netlify.app/]
+**Live Demo:** [aquapure-demo.netlify.app]
 
 ---
 
